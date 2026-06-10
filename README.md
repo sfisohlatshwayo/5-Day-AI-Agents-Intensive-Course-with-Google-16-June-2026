@@ -1,4 +1,4 @@
-Other Resources
+
 Day 1 (Introduction to Agents)
 Welcome to Day 1.
 
